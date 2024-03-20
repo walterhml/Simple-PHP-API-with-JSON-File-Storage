@@ -1,4 +1,6 @@
 # API PHP Simples com Armazenamento em Arquivo JSON
+![image](/assents/img.png)
+
 
 ## Introdução
 Este projeto consiste em uma API PHP simples para cadastro de usuários, onde os dados são armazenados em um arquivo JSON. A API oferece endpoints para adicionar novos usuários e listar todos os usuários cadastrados.
